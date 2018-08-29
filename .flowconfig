@@ -1,0 +1,14 @@
+[ignore]
+.*/docs/.*
+.*/node_modules/.*
+.*/test/.*
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
